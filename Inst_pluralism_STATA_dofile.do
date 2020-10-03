@@ -59,7 +59,7 @@ low_ec high_ph poor_taste water_concern_safe_to_drink geology_coral ///
 high_vol_use hp_water_drinking hp_water_lvstk hh_grow_crops ///
 alt_source_hp alt_source_open_well alt_source_river_stream_pond alt_source_piped_tap ///
 free_repair_y_n satisfied_maintenance_prov ///
-missing_penalty_no_pay
+missing_penalty_no_pay, robust
 
 fitstat
 
